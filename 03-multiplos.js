@@ -24,3 +24,5 @@ function somaVar1(x) {
 
   let resultado = somaVar1(valorMaximo)+somaVar2(valorMaximo)
   console.log(resultado)
+
+  module.exports = {resultado}

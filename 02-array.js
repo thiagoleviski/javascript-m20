@@ -4,3 +4,5 @@ let menor = array.indexOf(Math.min(...array));
 
 console.log(maior)
 console.log(menor)
+
+module.exports = {maior,menor}
